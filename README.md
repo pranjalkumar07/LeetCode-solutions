@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0146-lru-cache) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 ## Data Stream
