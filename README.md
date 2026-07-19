@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0239-sliding-window-maximum) |
+| [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0700-search-in-a-binary-search-tree) |
@@ -297,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
