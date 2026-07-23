@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0460-lfu-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
