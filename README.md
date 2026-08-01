@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0686-repeated-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
 |  |
