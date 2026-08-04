@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
