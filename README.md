@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0205-isomorphic-strings) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
