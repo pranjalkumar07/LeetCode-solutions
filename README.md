@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
