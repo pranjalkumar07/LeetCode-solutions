@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0547-number-of-provinces) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
