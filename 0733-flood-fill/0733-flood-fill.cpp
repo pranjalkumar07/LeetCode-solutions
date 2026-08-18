@@ -1,18 +1,24 @@
 class Solution {
-public:
-    void trav(vector<vector<int>>& image,int i,int j,int newColor,int oldColor){
-        if(i>=image.size()|| j>=image[0].size() || i<0 || j<0 || image[i][j]==newColor || image[i][j]!=oldColor){
-            return;
+private:
+    void dfs(int row,int col,  vector<vector<int>>&ans,vector<vector<int>>& image,int color,int delRow[],int delCol[],int iniColor){
+        ans[row][col]=color;
+        int n=image.size();
+        int m=image[0].size();
+        for(int i=0;i<4;i++){
+            int nrow=row+delRow[i];
+            int ncol=col+delCol[i];
+            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && image[nrow][ncol]==iniColor && ans[nrow][ncol]!=color){
+                dfs(nrow,ncol,ans,image,color,delRow,delCol,iniColor);
+            }
         }
-        image[i][j]=newColor;
-
-        trav(image,i-1,j,newColor,oldColor);
-        trav(image,i,j+1,newColor,oldColor);
-        trav(image,i+1,j,newColor,oldColor);
-        trav(image,i,j-1,newColor,oldColor);
     }
+public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        trav(image,sr,sc,color,image[sr][sc]);
-        return image;
+        int iniColor=image[sr][sc];
+        vector<vector<int>>ans=image;
+        int delRow[]={-1,0,+1,0};
+        int delCol[]={0,+1,0,-1};
+        dfs(sr,sc,ans,image,color,delRow,delCol,iniColor);
+        return ans;
     }
 };
