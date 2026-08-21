@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0547-number-of-provinces) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0994-rotting-oranges) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
