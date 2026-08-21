@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0994-rotting-oranges) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 ## Data Stream
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
