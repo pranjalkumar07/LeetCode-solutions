@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0289-game-of-life) |
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0994-rotting-oranges) |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
