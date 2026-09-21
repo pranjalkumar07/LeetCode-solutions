@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0162-find-peak-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0146-lru-cache) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0547-number-of-provinces) |
