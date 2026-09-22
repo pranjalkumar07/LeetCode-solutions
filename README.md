@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1539-kth-missing-positive-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -493,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0289-game-of-life) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
