@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1903-largest-odd-number-in-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0994-rotting-oranges) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0785-is-graph-bipartite) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
+| [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Tree
@@ -315,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0785-is-graph-bipartite) |
@@ -423,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1319-number-of-operations-to-make-network-connected) |
