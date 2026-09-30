@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
