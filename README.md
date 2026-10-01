@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0289-game-of-life) |
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0680-valid-palindrome-ii) |
