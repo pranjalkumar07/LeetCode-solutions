@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -533,4 +539,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0078-subsets) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
