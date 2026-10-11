@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0078-subsets) |
 ## Graph Coloring
 |  |
@@ -555,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
