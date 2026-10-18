@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0238-product-of-array-except-self) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
