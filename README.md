@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0238-product-of-array-except-self) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
@@ -575,9 +579,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0051-n-queens) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
