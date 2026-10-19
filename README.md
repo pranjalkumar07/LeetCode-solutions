@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0078-subsets) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
