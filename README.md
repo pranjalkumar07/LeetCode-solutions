@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0078-subsets) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0067-add-binary) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1903-largest-odd-number-in-string) |
