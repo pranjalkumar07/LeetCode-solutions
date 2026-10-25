@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1539-kth-missing-positive-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3524-find-x-value-of-array-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3524-find-x-value-of-array-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0067-add-binary) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1903-largest-odd-number-in-string) |
+| [3524-find-x-value-of-array-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/3524-find-x-value-of-array-i) |
 ## Trie
 |  |
 | ------- |
