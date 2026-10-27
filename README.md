@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1903-largest-odd-number-in-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
