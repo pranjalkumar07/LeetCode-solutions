@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1539-kth-missing-positive-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3524-find-x-value-of-array-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0239-sliding-window-maximum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
