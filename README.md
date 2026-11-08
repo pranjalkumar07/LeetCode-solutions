@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0686-repeated-string-match) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0844-backspace-string-compare) |
