@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0686-repeated-string-match) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0383-ransom-note) |
 ## Algorithm X
 |  |
 | ------- |
