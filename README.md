@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0721-accounts-merge) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
