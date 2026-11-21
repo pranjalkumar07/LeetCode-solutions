@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1539-kth-missing-positive-number) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pranjalkumar07/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
